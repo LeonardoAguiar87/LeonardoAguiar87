@@ -1,5 +1,5 @@
 # 🎪 Olá! Seja Bem vindo ao meu perfil
-#### Eu sou Leonardo Aguiar Front-end Developer👋😁
+#### Eu sou Leonardo Aguiar, Front-end Developer👋😁
 ###
 
 <div align="left">
