@@ -1,6 +1,6 @@
 # 🎪 Olá! Seja Bem vindo ao meu perfil
 #### Eu sou Leonardo Aguiar, Front-end Developer👋😁
-## Cursos realizado na Alura: https://cursos.alura.com.br/user/leonardoaguioar87
+## Cursos realizado na Alura: [https://cursos.alura.com.br/user/leonardoaguioar87](https://cursos.alura.com.br/user/leonardoaguioar87/fullCertificate/160585838fe25e2fadfaa1522e564b10)
 ## Meu Linkedin: https://www.linkedin.com/in/leonardo-correia-de-aguiar-2b5590260/
 ###
 
