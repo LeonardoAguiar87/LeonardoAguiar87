@@ -13,10 +13,13 @@ https://www.figma.com/design/hyC8mzigBvunEyOb9V1nCm/Portfolio?node-id=0-1&t=Oev1
 ###
 
 <div align="center">
-  <a href="https://github.com/LeonardoAguiar87">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87&show_icons=true&theme=bear&include_all_commits=true&count_private=true&border_radius=10"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAguiar87&layout=compact&langs_count=7&theme=bear&border_radius=10"/>
-  </a>
+  
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87&theme=blue-green)
+  
+  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAguiar87&theme=blue-green&layout=compact)
+  
+  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=LeonardoAguiar87&theme=react-dark&hide_border=true)
+  
 </div>
 
 ###
