@@ -13,8 +13,11 @@ https://www.figma.com/design/hyC8mzigBvunEyOb9V1nCm/Portfolio?node-id=0-1&t=Oev1
 ###
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAguiar87&layout=compact&langs_count=8&theme=dark"/>
+  
+  <!-- Stats from anuraghazra.github.io -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87&show_icons=true&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAguiar87&layout=compact"/>
+  
 </div>
 
 ###
