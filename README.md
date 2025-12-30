@@ -12,13 +12,10 @@ Isso lhe dará uma ideia melhor sobre mim e sobre o que estou criando:
 https://www.figma.com/design/hyC8mzigBvunEyOb9V1nCm/Portfolio?node-id=0-1&t=Oev12HxZha8v96Fs-1
 ###
 
-<div align="center">
+
   
-  <!-- Stats from anuraghazra.github.io -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAguiar87&layout=compact"/>
-  
-</div>
+  <!-- Stats -->
+
 
 ###
 
