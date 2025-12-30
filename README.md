@@ -12,11 +12,11 @@ Isso lhe dará uma ideia melhor sobre mim e sobre o que estou criando:
 https://www.figma.com/design/hyC8mzigBvunEyOb9V1nCm/Portfolio?node-id=0-1&t=Oev12HxZha8v96Fs-1
 ###
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87&show_icons=true&theme=bear)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87&show_icons=true&theme=default)
 <div align="center">
   <a href="https://github.com/LeonardoAguiar87">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAguiar87&layout=compact&langs_count=7&theme=bear"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87&show_icons=true&theme=defaultr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAguiar87&layout=compact&langs_count=7&theme=default"/>
 </div>
 
 ###
