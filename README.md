@@ -12,10 +12,11 @@ Isso lhe dará uma ideia melhor sobre mim e sobre o que estou criando:
 https://www.figma.com/design/hyC8mzigBvunEyOb9V1nCm/Portfolio?node-id=0-1&t=Oev12HxZha8v96Fs-1
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87)](https://github.com/LeonardoAguiar87/github-readme-stats)
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoAguiar87&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87&show_icons=true&theme=bear)
+<div align="center">
+  <a href="https://github.com/LeonardoAguiar87">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAguiar87&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAguiar87&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
 ###
