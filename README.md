@@ -3,6 +3,7 @@
 ## Cursos realizado na Alura: [https://cursos.alura.com.br/user/leonardoaguioar87](https://cursos.alura.com.br/user/leonardoaguioar87/fullCertificate/160585838fe25e2fadfaa1522e564b10)
 ## Meu Linkedin: https://www.linkedin.com/in/leonardo-correia-de-aguiar-2b5590260/
 
+<!--
 ## 📂Projeto Pessoal:
 
 Embora ainda não tenha finalizado o design do meu site pessoal, 
@@ -13,8 +14,7 @@ https://www.figma.com/design/hyC8mzigBvunEyOb9V1nCm/Portfolio?node-id=0-1&t=Oev1
 ###
 
 
-  
-  <!-- Stats -->
+Stats -->
 
 
 ###
